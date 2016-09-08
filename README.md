@@ -1,4 +1,4 @@
-# demorepo
+# demolib
 
 This is the companion repo to the demorepo to show how to use packages.
 
